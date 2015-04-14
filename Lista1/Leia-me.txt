@@ -1,0 +1,5 @@
+Lista sobre o basico de C
+
+Matheus Lobo de Souza Martins
+mat_lo@hotmail.com	
+Estrutura de Dados 1-T01

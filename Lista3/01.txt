@@ -1,0 +1,1 @@
+1-) O ponteiro nada mais é do que uma variável que guarda o endereço de uma outra variável

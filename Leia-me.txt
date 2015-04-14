@@ -1,0 +1,7 @@
+Universidade Federal da Bahia
+Matheus Lobo de Souza Martins
+e-mail: mat_lo@hotmail.com
+Disciplina: Estrutura de dados e algorítimos
+
+Esta pasta está destinada as atividades realizadas no semestre 2015.01
+Contendo atividades, tarefas extras e o projeto.
