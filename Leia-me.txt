@@ -1,7 +1,11 @@
 Universidade Federal da Bahia
 Matheus Lobo de Souza Martins
+Luiz Alberto Sena da Costa
+Andr√© Argolo
+Rafael Melo
+Alana Bispo
 e-mail: mat_lo@hotmail.com
-Disciplina: Estrutura de dados e algorÌtimos
+Disciplina: Estrutura de dados e algor√≠timos
 
-Esta pasta est· destinada as atividades realizadas no semestre 2015.01
+Esta pasta est√° destinada as atividades realizadas no semestre 2015.01
 Contendo atividades, tarefas extras e o projeto.
