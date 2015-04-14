@@ -5,7 +5,10 @@ André Argolo
 Rafael Melo
 Alana Bispo
 e-mail: mat_lo@hotmail.com
-Disciplina: Estrutura de dados e algorítimos
+        allbertosc@gmail.com  
+        felipeargolo@dcc.ufba.br
+        
+Disciplina: Estrutura de dados e Algorítimos
 
 Esta pasta está destinada as atividades realizadas no semestre 2015.01
 Contendo atividades, tarefas extras e o projeto.
